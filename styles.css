@@ -150,3 +150,9 @@ span[class~="sr-only"] {
   tr.data td:last-of-type {
     padding: 0.5rem;
   }
+/* styling the attribution */
+footer {
+  padding: 1em;
+  text-align: center;
+  font-style: italic;
+}
